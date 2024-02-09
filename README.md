@@ -1,4 +1,4 @@
-#Open Liberty/Jakarta Batch Example# 
+# Open Liberty/Jakarta Batch Example # 
 
 A simple, and crude example of a Jakarta Batch (JBatch) application running on Open Liberty server.
 
