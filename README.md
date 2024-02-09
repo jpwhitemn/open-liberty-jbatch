@@ -1,5 +1,8 @@
 # Open Liberty/Jakarta Batch Example # 
 
+Author:  Jim White
+Copyright:  2024, James White
+
 A simple, and crude example of a Jakarta Batch (JBatch) application running on Open Liberty server.
 
 There are two JBatch batch examples:
